@@ -14,7 +14,7 @@ This page includes pictures, copy and contact details for the media to use when 
 
 ## Photos
 
-Photos are available [here](https://innovationcircuit.co/photos). Click on them for a higher resolution. 
+Photos are available [here](https://drive.google.com/drive/folders/1rmrTzriJ2STsGNh7zV3uQwRkfN1VJZVO?usp=sharing). They are from our predecessor event, Innovation Week which was hosted out our school.
 
 ## Contact Details
 
