@@ -4,7 +4,7 @@ This page includes pictures, copy and contact details for the media to use when 
 
 ## Copy
 
-This is language you can use when discussing the Innovation Circuit. These documents will also catch you up with our program and goals as a team.
+This inculdes wording you may want to use when discussing the Innovation Circuit. These documents will also catch you up with our program and goals as a team.
 
 [Welcome Letter from Founders](https://github.com/the-innovation-circuit/media/blob/main/welcome_letter.md)
 
