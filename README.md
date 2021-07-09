@@ -4,6 +4,8 @@ This page includes pictures, copy and contact details for the media to use when 
 
 ## Copy
 
+This is language you can use when discussing the Innovation Circuit. These documents will also catch you up with our program and goals as a team.
+
 [Welcome Letter from Founders](https://github.com/the-innovation-circuit/media/blob/main/welcome_letter.md)
 
 [The Problem](https://github.com/the-innovation-circuit/media/blob/main/the_problem.md)
@@ -18,4 +20,4 @@ Photos are available [here](https://drive.google.com/drive/folders/1rmrTzriJ2STs
 
 ## Contact Details
 
-For inquiries please contact us at [`contact@innovationcircuit.co`](mailto:contact@innovationcircuit.co). We'll do our best to respond within 72 hours.
+For inquiries please contact us at [`contact@innovationcircuit.co`](mailto:contact@innovationcircuit.co).
